@@ -46,7 +46,7 @@
   
   | Plataforma | Link |
   | :--- | :--- |
-  | **LinkedIn** | [Seu Perfil do LinkedIn] |
-  | **YouTube** | [Link do Seu Canal de Tutoriais] (Conteúdo sobre E-commerce) |
-  | **Email** | seu.email@exemplo.com |
+  | **LinkedIn** | https://www.linkedin.com/in/lochayde-oliveira-9735161a4 |
+  | **YouTube** | https://www.youtube.com/channel/UC-8sj6djJyU_mByasgyn3yw (Conteúdo sobre E-commerce) |
+  | **Email** | lochaydeguerreiro@hotmail.com |
 </div>
