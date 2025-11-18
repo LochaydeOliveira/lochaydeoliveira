@@ -3,7 +3,7 @@
   <h3 style="font-size: 20px;">De E-commerce a Full Stack Developer.</h3>
 </div>
 
-<div id="github-stats" align="center" style="display:flex">
+<div style="display: flex;" id="github-stats" align="center">
   <a href="https://github.com/lochaydeoliveira">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lochaydeoliveira&show_icons=true&locale=pt-br&theme=tokyonight&hide=issues,prs,contribs&include_all_commits=true" alt="Estatísticas do GitHub" />
   </a>
