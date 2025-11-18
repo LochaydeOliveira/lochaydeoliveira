@@ -3,7 +3,14 @@
   <h3 style="font-size: 20px;">De E-commerce a Full Stack Developer.</h3>
 </div>
 
----
+<div id="github-stats" align="center">
+  <a href="https://github.com/[SEU_USERNAME]">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU_USERNAME]&show_icons=true&locale=pt-br&theme=tokyonight&hide=issues,prs,contribs&include_all_commits=true" alt="Estatísticas do GitHub" />
+  </a>
+  <a href="https://github.com/[SEU_USERNAME]">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=[SEU_USERNAME]&layout=compact&locale=pt-br&theme=tokyonight" alt="Linguagens Mais Usadas" />
+  </a>  
+</div>
 
 <div id="about-me">
   <h2>🚀 Minha Jornada e Foco</h2>
@@ -13,7 +20,7 @@
     <li>👩‍💻 Desenvolvo projetos Front End pessoais como sites e landing pages.</li>
     <li>🎬 Crio conteúdo em vídeo (YouTube) focado em soluções para Lojas Virtuais (Shopify/Yampi).</li>
     <li>📚 Estudando com foco total em JavaScript Vanilla (lógica e manipulação do DOM) e consumo de APIs assíncronas (`Fetch API`), construindo a base para a futura stack Node.js/MySQL.</li>
-    <li>💬 O que você quer saber sobre criação, otimização e customização avançada de lojas virtuais (Shopify/Yampi)?</li>
+    <li>💬 O que você quer saber sobre criação, otimização e customização avançada de lojas virtuais?</li>
     <li>😎 Me chame por Ele/Dele.</li>
   </ul>
 </div>
@@ -36,17 +43,6 @@
 
 ---
 
-<div id="github-stats" align="center">
-  <h2>📊 Minhas Estatísticas do GitHub</h2>
-  
-  <a href="https://github.com/[SEU_USERNAME]">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU_USERNAME]&show_icons=true&locale=pt-br&theme=tokyonight&hide=issues,prs,contribs&include_all_commits=true" alt="Estatísticas do GitHub" />
-  </a>
-  <a href="https://github.com/[SEU_USERNAME]">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=[SEU_USERNAME]&layout=compact&locale=pt-br&theme=tokyonight" alt="Linguagens Mais Usadas" />
-  </a>
-  
-</div>
 
 ---
 
