@@ -1,19 +1,18 @@
 <div id="header">
   <h1 style="font-size: 28px; margin: 10px 0;">Olá! Eu sou o Lochayde Oliveira 🙋‍♂️</h1>
-  <h3 style="font-size: 20px;">De E-commerce a Full Stack Developer.</h3>
 </div>
 
-<div style="display: flex;" id="github-stats" align="center">
-  <a href="https://github.com/lochaydeoliveira">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lochaydeoliveira&show_icons=true&locale=pt-br&theme=tokyonight&hide=issues,prs,contribs&include_all_commits=true" alt="Estatísticas do GitHub" />
-  </a>
-  <a href="https://github.com/lochaydeoliveira">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lochaydeoliveira&layout=compact&locale=pt-br&theme=tokyonight" alt="Linguagens Mais Usadas" />
-  </a>  
+<div id="github-stats" align="center">
+    <a href="https://github.com/lochaydeoliveira">
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lochaydeoliveira&show_icons=true&locale=pt-br&theme=tokyonight&hide=issues,prs,contribs&include_all_commits=true" alt="Estatísticas do GitHub" />
+    </a>
+    <a href="https://github.com/lochaydeoliveira">
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lochaydeoliveira&layout=compact&locale=pt-br&theme=tokyonight" alt="Linguagens Mais Usadas" />
+    </a>
 </div>
 
 <div id="about-me">
-  <h2>🚀 Minha Jornada e Foco</h2>
+  <h2>🚀 Minha Jornada e Foco | De E-commerce a Full Stack Developer</h2>
   
   <ul>
     <li>🛍️ Trabalho com criação de Lojas Virtuais (Shopify/Yampi).</li>
