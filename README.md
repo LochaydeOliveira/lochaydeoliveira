@@ -2,7 +2,7 @@
   <h1 style="font-size: 28px; margin: 10px 0;">Olá! Eu sou o Lochayde Oliveira 🙋‍♂️</h1>
 </div>
 
-<div id="github-stats" align="center">
+<div id="github-stats" align="left">
     <a href="https://github.com/lochaydeoliveira">
       <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lochaydeoliveira&show_icons=true&locale=pt-br&theme=tokyonight&hide=issues,prs,contribs&include_all_commits=true" alt="Estatísticas do GitHub" />
     </a>
@@ -39,11 +39,6 @@
   | **Ferramentas** | Versionamento | <img src="https://skillicons.dev/icons?i=git,github" /> |
 
 </div>
-
----
-
-
----
 
 <div id="contact">
   <h2>🔗 Onde Me Encontrar</h2>
