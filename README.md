@@ -43,10 +43,10 @@
 <div id="contact">
   <h2>🔗 Onde Me Encontrar</h2>
   <p>Vamos nos conectar! Para qualquer dúvida sobre E-commerce ou para colaborar em projetos de código:</p>
-  
-  | Plataforma | Link |
-  | :--- | :--- |
-  | **LinkedIn** | https://www.linkedin.com/in/lochayde-oliveira-9735161a4 |
-  | **YouTube** | https://www.youtube.com/channel/UC-8sj6djJyU_mByasgyn3yw (Conteúdo sobre E-commerce) |
-  | **Email** | lochaydeguerreiro@hotmail.com |
+
+  <ul>
+    <li>LinkedIn: <a href="https://www.linkedin.com/in/lochayde-oliveira-9735161a4">Ver perfil</a></li>
+    <li>YouTube: <a href="https://www.youtube.com/channel/UC-8sj6djJyU_mByasgyn3yw">Ver canal</a></li>
+    <li>E-mail: lochaydeguerreiro@hotmail.com</li>
+  </ul>
 </div>
