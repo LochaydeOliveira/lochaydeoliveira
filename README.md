@@ -4,7 +4,7 @@
 
 <div id="github-stats" align="left">
     <a href="https://github.com/lochaydeoliveira">
-      <img height="145em" width="470em" src="https://github-readme-stats.vercel.app/api?username=lochaydeoliveira&show_icons=true&locale=pt-br&theme=tokyonight&hide=issues,prs,contribs&include_all_commits=true" alt="Estatísticas do GitHub" />
+      <img height="145em" width="450em" src="https://github-readme-stats.vercel.app/api?username=lochaydeoliveira&show_icons=true&locale=pt-br&theme=tokyonight&hide=issues,prs,contribs&include_all_commits=true" alt="Estatísticas do GitHub" />
     </a>
     <a href="https://github.com/lochaydeoliveira">
       <img height="145em" width="390em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lochaydeoliveira&layout=compact&locale=pt-br&theme=tokyonight" alt="Linguagens Mais Usadas" />
