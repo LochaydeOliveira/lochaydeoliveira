@@ -4,11 +4,11 @@
 </div>
 
 <div id="github-stats" align="center">
-  <a href="https://github.com/[SEU_USERNAME]">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU_USERNAME]&show_icons=true&locale=pt-br&theme=tokyonight&hide=issues,prs,contribs&include_all_commits=true" alt="Estatísticas do GitHub" />
+  <a href="https://github.com/lochaydeoliveira">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lochaydeoliveira&show_icons=true&locale=pt-br&theme=tokyonight&hide=issues,prs,contribs&include_all_commits=true" alt="Estatísticas do GitHub" />
   </a>
-  <a href="https://github.com/[SEU_USERNAME]">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=[SEU_USERNAME]&layout=compact&locale=pt-br&theme=tokyonight" alt="Linguagens Mais Usadas" />
+  <a href="https://github.com/lochaydeoliveira">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lochaydeoliveira&layout=compact&locale=pt-br&theme=tokyonight" alt="Linguagens Mais Usadas" />
   </a>  
 </div>
 
