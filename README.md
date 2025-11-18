@@ -1,6 +1,5 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbT8K4I028T0T1l3/giphy.gif" width="150"/>
-  <h1 style="font-size: 28px; margin: 10px 0;">Olá! Eu sou o Lochayde Oliveira 👋</h1>
+<div id="header">
+  <h1 style="font-size: 28px; margin: 10px 0;">Olá! Eu sou o Lochayde Oliveira 🙋‍♂️</h1>
   <h3 style="font-size: 20px;">De E-commerce a Full Stack Developer.</h3>
 </div>
 
