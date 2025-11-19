@@ -2,18 +2,22 @@
   <h1 style="font-size: 28px; margin: 10px 0;">Olá! Eu sou o Lochayde Oliveira 🙋‍♂️</h1>
 </div>
 
+
+
 <div id="github-stats" align="left">
     <a href="https://github.com/lochaydeoliveira">
-      <img height="145em" width="450em" src="https://lochayde-oliveira.vercel.app/?username=lochaydeoliveira&show_icons=true&locale=pt-br&theme=tokyonight&hide=issues,prs,contribs&include_all_commits=true" alt="Estatísticas do GitHub" />
+      <img height="145em" width="450em" src="https://github-readme-stats.vercel.app/api?username=lochaydeoliveira&show_icons=true&locale=pt-br&theme=tokyonight&hide=issues,prs,contribs&include_all_commits=true" alt="Estatísticas do GitHub" />
     </a>
     <a href="https://github.com/lochaydeoliveira">
-      <img height="145em" width="390em" src="https://lochayde-oliveira.vercel.app/top-langs?username=lochaydeoliveira&layout=compact&locale=pt-br&theme=tokyonight" alt="Linguagens Mais Usadas" />
+      <img height="145em" width="390em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lochaydeoliveira&layout=compact&locale=pt-br&theme=tokyonight" alt="Linguagens Mais Usadas" />
     </a>
 </div>
 
+
+
 <div id="about-me">
   <h2>🚀 Minha Jornada e Foco | De E-commerce a Full Stack Developer</h2>
-  
+
   <ul>
     <li>🛍️ Trabalho com criação de Lojas Virtuais (Shopify/Yampi).</li>
     <li>👩‍💻 Desenvolvo projetos Front End pessoais como sites e landing pages.</li>
@@ -24,26 +28,22 @@
   </ul>
 </div>
 
----
 
 <div id="tech-stack">
   <h2>🛠️ Minhas Habilidades (Em Foco)</h2>
-  
   <p>Aqui estão as tecnologias que domino (avançado) e aquelas nas quais estou focado (aprendizado inicial):</p>
-
+  
   | Status | Área | Tecnologias |
   | :--- | :--- | :--- |
   | **Dominado** (Avançado) | Front-end Base | <img src="https://skillicons.dev/icons?i=html,css" /> |
   | **Em Estudo** (Básico/Fase 1) | Lógica/Front-end | <img src="https://skillicons.dev/icons?i=js" /> |
   | **Em Estudo** (Futuro) | Back-end & DB | <img src="https://skillicons.dev/icons?i=nodejs,express,mysql" /> |
   | **Ferramentas** | Versionamento | <img src="https://skillicons.dev/icons?i=git,github" /> |
-
 </div>
 
 <div id="contact">
   <h2>🔗 Onde Me Encontrar</h2>
   <p>Vamos nos conectar! Para qualquer dúvida sobre E-commerce ou para colaborar em projetos de código:</p>
-
   <ul>
     <li>LinkedIn: <a href="https://www.linkedin.com/in/lochayde-oliveira-9735161a4">Ver perfil</a></li>
     <li>YouTube: <a href="https://www.youtube.com/channel/UC-8sj6djJyU_mByasgyn3yw">Ver canal</a></li>
