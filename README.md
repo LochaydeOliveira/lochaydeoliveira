@@ -2,8 +2,6 @@
   <h1 style="font-size: 28px; margin: 10px 0;">Olá! Eu sou o Lochayde Oliveira 🙋‍♂️</h1>
 </div>
 
-
-
 <div id="github-stats" align="left">
     <a href="https://github.com/lochaydeoliveira">
       <img height="145em" width="450em" src="https://github-readme-stats.vercel.app/api?username=lochaydeoliveira&show_icons=true&locale=pt-br&theme=tokyonight&hide=issues,prs,contribs&include_all_commits=true" alt="Estatísticas do GitHub" />
@@ -12,7 +10,6 @@
       <img height="145em" width="390em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lochaydeoliveira&layout=compact&locale=pt-br&theme=tokyonight" alt="Linguagens Mais Usadas" />
     </a>
 </div>
-
 
 
 <div id="about-me">
