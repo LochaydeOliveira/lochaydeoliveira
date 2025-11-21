@@ -1,5 +1,5 @@
 <div id="header">
-  <h1 style="font-size: 28px; margin: 10px 0;">Olá! Eu sou o Lochayde Oliveira 🙋‍♂️</h1>
+  <h1 style="font-size: 28px; margin: 10px 0;">Olá! Eu sou o Lochayde Oliveira</h1>
 </div>
 
 <div id="github-stats" align="left">
